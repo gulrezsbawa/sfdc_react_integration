@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_jifflenow_selfserve=self.webpackChunk_jifflenow_selfserve||[]).push([[377],{45377:function(e,n,f){f.r(n),f.d(n,{default:function(){return r}});var t=f(87931),u=f(37574),r=function(){return(0,u.jsx)(t.u,{type:"ExternalAttendee"})}}}]);
-//# sourceMappingURL=377.a7ce9a90.chunk.js.map

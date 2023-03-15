@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_jifflenow_selfserve=self.webpackChunk_jifflenow_selfserve||[]).push([[747],{92747:function(e,n,f){f.r(n),f.d(n,{default:function(){return r}});var u=f(87931),s=f(37574),r=function(){return(0,s.jsx)(u.u,{type:"DoubleBooking"})}}}]);
-//# sourceMappingURL=747.f7c664a6.chunk.js.map

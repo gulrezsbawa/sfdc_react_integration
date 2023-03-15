@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_jifflenow_selfserve=self.webpackChunk_jifflenow_selfserve||[]).push([[314],{75314:function(e,f,n){n.r(f),n.d(f,{default:function(){return t}});var s=n(87931),u=n(37574),t=function(){return(0,u.jsx)(s.u,{type:"CustomLabels"})}}}]);
-//# sourceMappingURL=314.29b0c9ff.chunk.js.map
